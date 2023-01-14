@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    max-width: 1440px;
+    margin: auto;
+    overflow: hidden;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 5%;
+
+}
+
+nav ul{
+    display: flex;
+    align-items: center;
+}
+
+nav ul li:{
+    list-style: none;
+    margin-right: 50px;
+    font-weight: 500;
+}
+
+nav ul li button{
+    background-color: ;
+}
+
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 85vh;
+}
+
+h1{
+    font-size: 50px;
+}
+p{
+    margin-left: 80px;
+    padding: 60px;
+}
