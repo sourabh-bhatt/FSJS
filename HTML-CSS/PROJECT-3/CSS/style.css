@@ -11,14 +11,16 @@ body{
 }
 
 .logo{
-    padding-top: 50px;
+    padding-top: 20px;
+    padding-left: 180px;
 }
 
 nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 0 5%;
+    /* padding: 0 5%; */
+    padding-right: 200px;
 }
 
 nav ul{
@@ -44,14 +46,17 @@ button{
 
 h1{
     font-weight: 1000;
-    font-size: 50px;
-    padding-left: 75px;
+    font-size: 70px;
+    padding-left: 10%;
     padding-top: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 p{
-    font-size: 18px;
-    font-weight: 20;
+    font-size: 20px;
+    font-weight: 200;
+    align-items: center;
+    justify-content: end;
     padding-left: 1000px;
     padding-up: 70px;
 
