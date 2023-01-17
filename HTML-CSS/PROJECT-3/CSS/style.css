@@ -10,6 +10,9 @@ body{
     overflow: hidden;
 }
 
+.logo{
+    padding-top: 50px;
+}
 
 nav{
     display: flex;
@@ -51,6 +54,7 @@ p{
     font-weight: 20;
     padding-left: 1000px;
     padding-up: 70px;
+
 }
 
 .img{
