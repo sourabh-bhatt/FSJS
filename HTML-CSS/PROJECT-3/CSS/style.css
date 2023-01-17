@@ -1,21 +1,21 @@
 *{
     margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+    position: 0;
+    box-sizing:border-box;
 }
 
 body{
-    max-width: 1440px;
+    background-color: rgb(54, 46, 37);
     margin: auto;
     overflow: hidden;
 }
+
 
 nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding: 0 5%;
-
 }
 
 nav ul{
@@ -23,27 +23,38 @@ nav ul{
     align-items: center;
 }
 
-nav ul li:{
+nav ul li{
     list-style: none;
     margin-right: 50px;
-    font-weight: 500;
+    font-weight: 600;
 }
 
-nav ul li button{
-    background-color: ;
-}
-
-main{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 85vh;
+button{
+    text-align: center;
+    color: rgb(255, 183, 0);
+    background-color: rgb(45, 38, 24);
+    border: 1px solid gold;
+    margin: 8px;
+    padding: 10px 20px 10px 20px;
+    border-radius: 7px;
 }
 
 h1{
+    font-weight: 1000;
     font-size: 50px;
+    padding-left: 75px;
+    padding-top: 50px;
 }
+
 p{
-    margin-left: 80px;
-    padding: 60px;
+    font-size: 18px;
+    font-weight: 20;
+    padding-left: 1000px;
+    padding-up: 70px;
+}
+
+.img{
+    width: 67px;
+    align-items: center;
+    
 }
