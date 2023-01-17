@@ -52,18 +52,24 @@ h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-p{
-    font-size: 20px;
-    font-weight: 200;
-    align-items: center;
-    justify-content: end;
-    padding-left: 1000px;
-    padding-up: 70px;
+h1 p{
+    font-size: 15px;
+    font-weight: 100;
+    padding-left: 60%;
+    padding-top: 5%;
+    
 
 }
+/* p{
+    font-size: 20px;
+    font-weight: 200;
+    padding-left: 1000px;
+    padding-down: 70px;
+
+} */
 
 .img{
     margin-left: 3%;
-    
-    
+    height: 60px;
+    width: 50%;
 }
