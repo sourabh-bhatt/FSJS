@@ -9,7 +9,6 @@
 ## Projects Completed (Not Deployed Yet)
 
 1.
-
 ![Project 1](../FSJS2.0/HTML-CSS/PROJECT-1/Output/output.png)
 
 2.
