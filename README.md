@@ -8,11 +8,12 @@
 
 ## Projects Completed (Not Deployed Yet)
 
-1.
-![Project 1](../FSJS2.0/HTML-CSS/PROJECT-1/Output/output.png)
+1. ![Project 1](../FSJS2.0/HTML-CSS/PROJECT-1/Output/output.png)
 
 2.
 
 ![Project 2](../FSJS2.0/HTML-CSS/PROJECT-2/Output/output.png)
 
 3.
+
+![Project 3](..//FSJS2.0/HTML-CSS/PROJECT-3/Output/Output.png)
