@@ -52,11 +52,11 @@ h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-h1 p{
+    h1 p{
     font-size: 15px;
     font-weight: 100;
     padding-left: 60%;
-    padding-top: 5%;
+    padding-down: 20%;
     
 
 }
@@ -70,6 +70,6 @@ h1 p{
 
 .img{
     margin-left: 3%;
-    height: 60px;
-    width: 50%;
+    /* height: 60px;
+    width: 50%; */
 }
