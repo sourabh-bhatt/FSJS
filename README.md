@@ -8,6 +8,8 @@ Link to my [Portfolio](https://sourabhbhatt.netlify.app/)
 2. [A Beginner Guide to HTML elements: Understanding the Building Blocks of a Webpage](https://sourbhatt.hashnode.dev/a-beginner-guide-to-html-elements-understanding-the-building-blocks-of-a-webpage)
 3. [Make 2023: The Year Of Networking With Real Devs :)](https://sourbhatt.hashnode.dev/make-2023-the-year-of-networking-with-real-devs)
 
+4. [How I use ChatGPT as a Computer Science Student](https://sourbhatt.hashnode.dev/how-i-use-chatgpt-as-a-computer-science-student)
+
 ## Projects Completed (Not Deployed Yet)
 
 1. ![Project 1](../FSJS2.0/HTML-CSS/PROJECT-1/Output/output.png)
