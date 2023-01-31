@@ -1,7 +1,6 @@
 Links to my [Portfolio](https://sourabhbhatt.netlify.app/)
 
-**# FSJS FULL STACK JAVA SCRIPT**
-
+**# FSJS FULL STACK JAVASCRIPT**
 
 ## Link of all articles
 
