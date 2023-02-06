@@ -10,6 +10,7 @@ Links to my [Portfolio](https://sourabhbhatt.netlify.app/)
 
 4. [How I use ChatGPT as a Computer Science Student](https://sourbhatt.hashnode.dev/how-i-use-chatgpt-as-a-computer-science-student)
 
+5. [Css is not hard](https://hashnode.sourabhbhatt)
 ## Projects Completed (Not Deployed Yet)
 
 1. ![Project 1](../FSJS2.0/HTML-CSS/PROJECT-1/Output/output.png)
