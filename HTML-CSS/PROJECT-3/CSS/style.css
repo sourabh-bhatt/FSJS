@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: rgb(54, 46, 37);
+    background-color: rgb(53, 46, 37);
     margin: auto;
     /* overflow: hidden; */
 }
@@ -20,7 +20,7 @@ nav{
     align-items: center;
     justify-content: space-between;
     /* padding: 0 5%; */
-    padding-right: 200px;
+    padding-right: 201px;
 }
 
 nav ul{
