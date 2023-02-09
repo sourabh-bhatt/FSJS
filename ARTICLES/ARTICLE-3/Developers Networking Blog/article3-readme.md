@@ -6,7 +6,7 @@ Well, when I say about meeting new peoples in tech; I mean to say all those who 
 
 They are the real people who know the real value of technology. They know about market trends and demands. So, meeting these people keeps me connected to the developer community. And in the last month of 2022, I did the same.
 
-I attended 1 hackathon (unfortunately, I failed in it), 2 devfests, and 4-5 offline community meetups. And the learnings and swags I received there are just un-imaginable.
+I attended 1 hackathons (unfortunately, I failed in it), 2 devfests, and 4-5 offline community meetups. And the learnings and swags I received there are just un-imaginable.
 
 # A Glimpse to my swags 🥳
 
