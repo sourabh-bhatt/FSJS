@@ -68,7 +68,7 @@ Here, the selector is applying its chained property. Which is basically selectin
 
 ### Combined Selector
 
-It is one of the best and short ways to write complex CSS in an easy way. In this, we apply the same property to two different elements.
+It is one of the best and short ways to write complex CSS in an easy way. In this, we apply the same property to two different elements. Which basically
 
 For example;
 
