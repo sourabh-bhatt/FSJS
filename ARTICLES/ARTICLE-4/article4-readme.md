@@ -64,7 +64,7 @@ For example
 
 %[https://codepen.io/sourabh-bhatt/pen/dyjxdWO]
 
-Here, the selector is applying its chained property. Which is basically selecting all the classes mentioned in the list element.
+Here, the selector is applying its chained property. Which is basically selecting all the classes mentioned in the list element. It will apply the property on all of the elements.
 
 ### Combined Selector
 
