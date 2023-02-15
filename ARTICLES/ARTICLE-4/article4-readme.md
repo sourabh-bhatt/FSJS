@@ -15,9 +15,9 @@ I'm saying that mastering the selectors will make you 80% proficient in CSS. You
 As the name suggests, the property selected will be applied to all tags. For eg;
 
 ```css
-* {
-  padding: 0;
-  margin: 0;
+*{
+padding:0;
+margin:0;
 }
 ```
 
@@ -26,8 +26,8 @@ As the name suggests, the property selected will be applied to all tags. For eg;
 It will select only the targeted tag from the code file. For example;
 
 ```css
-p {
-  background-color: #4d4d4d;
+p{
+background-color:#4d4d4d;
 }
 ```
 
@@ -41,18 +41,20 @@ So, for that, we have to select these paragraphs' particular class and ID. so th
 
 For example, I have targetted the class warning and selected One:
 
-%[https://codepen.io/sourabh-bhatt/pen/dyjxdWO]
+%[https://codepen.io/sourabh-bhatt/pen/dyjxdWO] 
 
 In the same way, ID can also be selected:
 
-%[https://codepen.io/sourabh-bhatt/pen/RwBXQZZ]
+%[https://codepen.io/sourabh-bhatt/pen/RwBXQZZ] 
 
 In this, I have selected an individual element by its unique Id.
 
-**_<mark>Note:</mark>_**
+***<mark>Note:</mark>***
 
-1. _The id should be unique._
-2. _Classes can be the same._
+1. *The id should be unique.*
+    
+2. *Classes can be the same.*
+    
 
 ### and Selector(Chained)
 
@@ -62,7 +64,7 @@ Well, here a chained property of CSS comes in, which is the selector. Basically,
 
 For example
 
-%[https://codepen.io/sourabh-bhatt/pen/dyjxdWO]
+%[https://codepen.io/sourabh-bhatt/pen/dyjxdWO] 
 
 Here, the selector is applying its chained property. which is basically selecting all the classes mentioned in the list element.
 
@@ -72,7 +74,7 @@ It is one of the best and short ways to write complex CSS in an easy way. In thi
 
 For example;
 
-%[https://codepen.io/sourabh-bhatt/pen/QWBeQJo]
+%[https://codepen.io/sourabh-bhatt/pen/QWBeQJo] 
 
 **<mark>Note:</mark> In this example, I just took only 2 elements, but there is no limit:)**
 
@@ -82,7 +84,7 @@ We often try to hit a particular element with a particular element or tag. But b
 
 For example,
 
-%[https://codepen.io/sourabh-bhatt/pen/NWLKvBp]
+%[https://codepen.io/sourabh-bhatt/pen/NWLKvBp] 
 
 # Direct Child
 
@@ -92,9 +94,9 @@ Well, in this case, the use of "direct child" comes into play. We will get to us
 
 For example,
 
-%[https://codepen.io/sourabh-bhatt/pen/NWLKvBp]
+%[https://codepen.io/sourabh-bhatt/pen/NWLKvBp] 
 
-**_<mark>Note:</mark>_** _The first two letters, "li" and "ul," are direct children. But in "ul," it has one more child, which is the grandchild of "div." So, it will not select "ul"._
+***<mark>Note:</mark>*** *The first two letters, "li" and "ul," are direct children. But in "ul," it has one more child, which is the grandchild of "div." So, it will not select "ul".*
 
 # Sibling Selector
 
@@ -106,22 +108,42 @@ As the name sibling depetics; to share the something with next. Same happens in 
 
 For example;
 
-%[https://codepen.io/sourabh-bhatt/pen/NWLKvBp]
+%[https://codepen.io/sourabh-bhatt/pen/NWLKvBp] 
 
-# Pseudo Selector
+# Pseudo Selectors
 
-::before, ::after, :hover
+Pseudo-selectors are special classes for selecting a particular element.
 
-First hover uses than after before
+For example,
 
-.imp-label:hover::before
+### :hover
 
-content: '';
+":hover" element applies to the element when we want to hover over it or change its current state to a new one and then to the previous one. It is one of the best pseudo-selectors used for building buttons.
 
-display: block;
+For example,
 
-# focus
+%[https://codepen.io/sourabh-bhatt/pen/NWLKvBp] 
 
-first child , last child
+As in the above example, I have made a hover selector over the class 'sibling' and given it a background color 'red'.
 
-custom attributes
+### ::before
+
+The "::before" selector creates a pseudo element on the very first child of the selected element. It requires a 'content' property. It is mandatory to have it, or else it will not work.
+
+%[https://codepen.io/sourabh-bhatt/pen/NWLKvBp] 
+
+### ::after
+
+As "::before" applies the property before the element same "::after" applies the property after the element. It does by selecting the last child of the element.
+
+%[https://codepen.io/sourabh-bhatt/pen/NWLKvBp] 
+
+**<mark>Note:</mark>** These pseudo selectors must follow display inline property.
+
+# Conclusion
+
+So, developers, this is the end of the blog but not the end of selectors. You can refer to MDN DOCS for more in-depth knowledge about selectors.
+
+Do lemme know if there any mistake I made in explanation.
+
+#iwritecode #webdev #wemakedevs
