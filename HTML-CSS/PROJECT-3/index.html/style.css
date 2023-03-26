@@ -2,12 +2,14 @@
     margin: 0;
     position: 0;
     box-sizing:border-box;
+    background-color: rgb(53, 46, 37);
+
 }
 
 body{
     background-color: rgb(53, 46, 37);
     margin: auto;
-    /* overflow: hidden; */
+    overflow: hidden;
 }
 
 .logo{
