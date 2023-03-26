@@ -18,9 +18,7 @@ Links to my [Portfolio](https://sourabhbhatt.netlify.app/)
 
 1. [Project 1](https://melodic-jalebi-20706f.netlify.app/)
 
-2.
-
-![Project 2](../FSJS2.0/HTML-CSS/PROJECT-2/Output/output.png)
+2. [Project 2](https://lively-donut-5e6544.netlify.app/)
 
 3.
 
