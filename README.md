@@ -20,6 +20,4 @@ Links to my [Portfolio](https://sourabhbhatt.netlify.app/)
 
 2. [Project 2](https://lively-donut-5e6544.netlify.app/)
 
-3.
-
-![Project 3](..//FSJS2.0/HTML-CSS/PROJECT-3/Output/Output.png)
+3. [Project 3]()
