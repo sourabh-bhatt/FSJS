@@ -1,2 +1,154 @@
 /* You can not modify anything in the HTML */
 /* You can only modify the CSS file */
+*{
+    margin: 0px;
+    padding: 0px;
+    /* box-sizing: border-box; */
+}
+
+body{
+    background-color: rgb(0, 0, 0);
+    /* margin: auto;*/
+    /* overflow: hidden; */
+}
+
+.container{
+    /* background-color: #000; */
+    width: 100%;
+    max-width: 1200px;
+    margin: 20px 150px;
+    padding: 0 10px;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+    background-color: #000000;
+    /* box-shadow: 0 0 5px rgba(255, 255, 255, 0.1); */
+    background-color: black;
+  width: 100%;
+  height: 50px; /* adjust the height according to your design */
+  position: fixed;
+  top: 0;
+  left: 30px;
+  z-index: 9999;
+}
+
+.navbar img{
+    height: 30px;
+    margin-right: 50px;
+}
+
+/* adding a line after logo */
+.navbar .line {
+    height: 30px;
+    width: 1px;
+    background-color: #fff;
+    margin: 0 20px;
+  }
+  
+
+.grow-list{
+    flex-grow: 1;
+}
+
+.list{
+    display: flex;
+    list-style: none;
+    margin: 30px;
+    padding: 40px;
+}
+
+.list-item{
+    margin-right: 70px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #bbb8b8;
+}
+
+.navbar {
+    border-bottom: 2px solid #000;
+  }
+
+
+/* adding a arrow down after apps */
+.list-item:nth-child(1)::after {
+    content: "\25BC";
+    margin-left: 5px;
+  }
+  
+.button-small{
+    padding: 10px 30px;
+    margin: 100px;
+    background-color: #cc00ff;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 560;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.button-small:hover{
+    background-color: #ffffff;
+    color: rgb(244, 0, 0);
+}
+
+
+/* Now bottom section */
+
+.hero h1{
+    font-size: 60px;
+    display: block;
+    border: 2px solid black;
+    margin-top: 8%;
+}
+
+.button-large{
+    padding: 10px 20px;
+    background-color: #cc00ff;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 560;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.button-large:hover{
+    background-color: #ffffff;
+    color: rgb(244, 0, 0);
+}
+
+
+/* .hero {
+    position: relative;
+    z-index: 1;
+  }
+  
+  .background-img {
+    position: absolute;
+    top: 80px;
+    bottom: 10px;
+    left: 0px;
+    z-index: 0;
+} */
+
+.hero {
+    position: relative;
+    z-index: 1;
+    height: 100vh;
+  }
+  
+  .background-img {
+    position: absolute;
+    top: 100px; /* adjust this value as needed to position the image below the navbar */
+    left: 100px;
+    width: 100%;
+    height: calc(100% - 70px); /* calculate the height of the image to fill the remaining space below the navbar */
+    z-index: 0;
+  }
+  
+  
