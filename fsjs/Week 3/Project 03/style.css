@@ -1,2 +1,58 @@
 /* You can not modify anything from the HTML file */
 /* You can only modify the CSS file */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 100%;
+
+}
+.navbar-container{
+    display: flex;
+}
+
+.navbar-container  img{
+    display: flex;
+    height: 40px;
+    padding: 30px;
+    margin-left: 100px;
+}
+
+.list{
+    display: flex;
+    list-style-type: none;
+    padding: 40px;
+    margin-left: 20px;
+}
+
+.list-item{
+    padding: 2px;
+    margin-right: 10px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.button-group{
+    padding-left: 500px;
+    margin: 44px;
+    display: flex;
+    flex-direction: row;
+    /* font-weight: 100px;
+    color: rgb(132, 0, 255); */
+}
+
+.search-icon{
+    height: 1px;
+}
+
+.nav-button{
+    color: rgb(154, 149, 149);
+    /* height: 100px; */
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    padding-left: 90px;
+    margin: 10px;
+}
